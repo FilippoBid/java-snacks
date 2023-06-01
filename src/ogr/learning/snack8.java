@@ -2,7 +2,7 @@ package ogr.learning;
 
 import java.util.Scanner;
 
-public class snack8 {
+public class Snack8 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Inserisci un numero di 4 cifre: ");
